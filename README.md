@@ -46,7 +46,6 @@ Smart-Anti-Theft-Vehicle-System/
 ├── Firmware/           # STM32 firmware (main.c, HAL libraries)
 ├── Schematics/         # Circuit diagrams, pinout details
 ├── Docs/               # Project report, research notes
-├── Demo/             # Screenshots and demonstration videos
 ├── README.md           # Project Overview (this file)
 └── .gitignore          # Ignore build files, binaries, and temp files
 
